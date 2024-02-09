@@ -1,0 +1,59 @@
+body {
+    background: url(School.jpg);
+    font-family: cursive;
+}
+
+
+.container {
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #e9c7ab;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: blue;
+}
+
+#logo {
+    width: 80px;
+    height: auto;
+}
+
+
+.btn-danger {
+    color: rgb(239, 238, 238);
+}
+
+
+
+.table {
+    margin-top: 20px;
+}
+
+
+
+th, td {
+    text-align: center;
+}
+
+
+
+.btn-sm {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+
+
+.btn-outline-danger {
+    color: #dc3545;
+    border-color: #dc3545;
+}
+
+
+.btn-outline-danger:hover {
+    background-color: #dc3545;
+    color: #51fade;
+}
